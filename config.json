@@ -1,0 +1,16 @@
+
+{
+    "token": "MTIwNDQ1NDEwOTQwMzY3NjcwMg.GEXNqu.5WeQZOkGMKI-CQLzyolv_epO8hklYToSinkjTY",
+    "welcome": "welcome-channel-id",
+    "welcome_images": "welcome-images-channel-id",
+    "client_id": "your-client-id",
+    "youtube": "youtube-channel-id",
+    "twitch": "twitch-channel-id",
+    "modmail": "modmail-channel-id",
+    "ytchannel": "youtube-channel-name",
+    "twchannel": "twitch-channel-name",
+    "clientid": "your-client-id",
+    "clientsecret": "your-client-secret",
+    "stickyChannelId": "sticky-message-channel-id",
+    "stickyMessage": "This is a sticky message."
+}
